@@ -1,5 +1,9 @@
 ﻿
-
+@extends('front.website.master')
+@section('title')
+    Evladiyelik Kitaplar
+@endsection
+@section('content')
 @section('title')
   Postlar
 @endsection
