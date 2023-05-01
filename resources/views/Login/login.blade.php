@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
+    @section('title')
+       Giriş
+    @endsection
     <title>@yield('title')</title>
 
     <meta charset="UTF-8">

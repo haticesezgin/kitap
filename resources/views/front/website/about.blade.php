@@ -24,7 +24,7 @@
 
             </div>
             <li class="col-md-5 mr-auto order-md-1">
-                <h1>Biz Kimimiz</h1>
+                <h1>Biz Kimiz</h1>
                 <p><h5>Hatice Sezgin</h5>
                        Fırat üniversitesi yazılım mühendisliği 2.sınıf öğrencisi
                     sitenin frontend kısmı ile ilgilemiş kişi.</p>

@@ -1,7 +1,7 @@
 ﻿
 @extends('front.website.master')
 @section('title')
-    Evladiyelik Kitaplar
+    Postlar
 @endsection
 @section('content')
 @section('title')
@@ -86,9 +86,9 @@
                   </div>
                   <div class="comment-body">
                     <h3>Hatice Sezgin</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <div class="meta">6 nisan 2023 ,15:11</div>
                     <p>Yorum Kısmı</p>
-                    <p><a href="#" class="reply rounded">Reply</a></p>
+                    <p><a href="#" class="reply rounded">Cevapla</a></p>
                   </div>
                 </li>
 
@@ -97,10 +97,10 @@
                     <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>Jean Doe</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <h3>Hatice sezgin</h3>
+                    <div class="meta">6 nisan 2023 ,15:11</div>
                     <p>Yorum Kısmı</p>
-                    <p><a href="#" class="reply rounded">Reply</a></p>
+                    <p><a href="#" class="reply rounded">Cevapla</a></p>
                   </div>
 
                   <ul class="children">
@@ -109,10 +109,10 @@
                         <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
                       </div>
                       <div class="comment-body">
-                        <h3>Jean Doe</h3>
-                        <div class="meta">January 9, 2018 at 2:21pm</div>
+                        <h3>Hatice sezgin</h3>
+                        <div class="meta">6 nisan 2023, 15:11</div>
                         <p>Yorum Kısmı</p>
-                        <p><a href="#" class="reply rounded">Reply</a></p>
+                        <p><a href="#" class="reply rounded">Cevapla</a></p>
                       </div>
 
 
@@ -122,10 +122,10 @@
                             <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
                           </div>
                           <div class="comment-body">
-                            <h3>joe Doe</h3>
-                            <div class="meta">January 9, 2018 at 2:21pm</div>
+                            <h3>Hatice Sezgin</h3>
+                            <div class="meta">6 nisan 2023, 15:11</div>
                             <p>Yorum Kısmı</p>
-                            <p><a href="#" class="reply rounded">Reply</a></p>
+                            <p><a href="#" class="reply rounded">Cevapla/a></p>
                           </div>
 
                             <ul class="children">
@@ -134,10 +134,10 @@
                                   <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
                                 </div>
                                 <div class="comment-body">
-                                  <h3>Jean Doe</h3>
-                                  <div class="meta">January 9, 2018 at 2:21pm</div>
+                                  <h3>Hatice sezgin</h3>
+                                  <div class="meta">6 nisan 2023, 15:11</div>
                                   <p>Yorum Kısmı</p>
-                                  <p><a href="#" class="reply rounded">Reply</a></p>
+                                  <p><a href="#" class="reply rounded">Cevapla</a></p>
                                 </div>
                               </li>
                             </ul>
@@ -152,10 +152,10 @@
                     <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>Jean Doe</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <h3>Hatice sezgin</h3>
+                    <div class="meta">6 nisan 2023 15:11</div>
                     <p>Yorum Kısmı</p>
-                    <p><a href="#" class="reply rounded">Reply</a></p>
+                    <p><a href="#" class="reply rounded">Cevapla</a></p>
                   </div>
                 </li>
               </ul>
@@ -359,7 +359,7 @@
           <div class="col-md-5">
             <div class="subscribe-1 ">
               <h2>Daha Fazlası İçin Abone Olun</h2>
-              <p class="mb-5">Daha iyi bir içerik deneyimi için abone olun.</p>
+              <p class="mb-5">Güncel kitaplardan anında  haberdar olmak için abone olun.</p>
               <form action="#" class="d-flex">
                 <input type="text" class="form-control" placeholder="Enter your email address">
                 <input type="submit" class="btn btn-primary" value="Subscribe">

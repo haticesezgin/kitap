@@ -314,7 +314,7 @@
                 <div class="col-md-5">
                     <div class="subscribe-1 ">
                         <h2>Abone ol</h2>
-                        <p class="mb-5">Daha fazla içerik deneyimi için.</p>
+                        <p class="mb-5">Güncel kitaplardan anında  haberdar olmak için abone olun.</p>
                         <form action="#" class="d-flex">
                             <input type="text" class="form-control" placeholder="Enter your email address">
                             <input type="submit" class="btn btn-primary" value="Subscribe">
