@@ -10,7 +10,9 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/home', 'HomeController@index')->name('home');
+
 Route::get('/', function () {
     return view('front.homepage');
 });
@@ -34,6 +36,6 @@ Route::get('/yazarlar', function () {
 Route::get('/login', function () {
     return view('Login.login');
 });
-
-
-
+Route::get('/tag', function () {
+    return view('front.website.tag');
+});
